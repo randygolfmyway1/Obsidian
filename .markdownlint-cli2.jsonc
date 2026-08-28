@@ -1,0 +1,22 @@
+{
+  // Files to lint (vault notes only).
+  "globs": ["**/*.md"],
+  // Never lint dependencies, Obsidian config, or VCS internals.
+  "ignores": ["node_modules/**", ".obsidian/**", ".git/**"],
+  // Relaxed ruleset tuned for an Obsidian note vault rather than strict docs.
+  "config": {
+    "default": true,
+    // Notes wrap naturally in the editor; do not enforce a hard line length.
+    "MD013": false,
+    // Obsidian allows duplicate headings across a note (e.g. repeated sections).
+    "MD024": { "siblings_only": true },
+    // Trailing punctuation in headings (e.g. questions) is fine in notes.
+    "MD026": false,
+    // Inline HTML is common in notes/embeds.
+    "MD033": false,
+    // Bare URLs are acceptable in personal notes.
+    "MD034": false,
+    // A top-level H1 matching the filename is not required for notes.
+    "MD041": false
+  }
+}
