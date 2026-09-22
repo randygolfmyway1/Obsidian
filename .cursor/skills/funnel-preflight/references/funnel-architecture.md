@@ -7,7 +7,7 @@ Use Gate F to confirm each box. Strike what this offer intentionally omits — o
 - [ ] One primary product locked
 - [ ] Price + guarantee locked
 - [ ] Avatar + promise + mechanism locked
-- [ ] Brand kit locked (Wedge vs Big Mission vs other)
+- [ ] Brand kit locked (Wedge vs Bignition vs other)
 - [ ] Primary traffic source + capture URL locked
 - [ ] Success metric (CPL, CPA, or ROAS) named
 

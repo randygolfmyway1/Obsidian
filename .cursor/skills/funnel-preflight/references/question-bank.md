@@ -68,7 +68,7 @@ Ask from the active gate only. Prefer forced choices. Mark each answer `LOCKED` 
 
 1. Brand system for this funnel?
    - [ ] Wedge colors
-   - [ ] Big Mission colors
+   - [ ] Bignition colors
    - [ ] Other kit (name + where hex values live)
 2. Confirm primary, secondary, accent, background, text colors (paste hex).
 3. Logo / wordmark file path or URL?

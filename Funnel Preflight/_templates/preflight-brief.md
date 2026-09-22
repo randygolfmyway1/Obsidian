@@ -49,7 +49,7 @@ DENIED until A+B are LOCKED.
 
 ## D. Brand & Creative System
 
-- Brand kit: Wedge | Big Mission | Other
+- Brand kit: Wedge | Bignition | Other
 - Colors (hex):
 - Logo location:
 - VSL production style:

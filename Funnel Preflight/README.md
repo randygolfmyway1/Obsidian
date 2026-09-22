@@ -22,7 +22,7 @@ You can also invoke explicitly with `/funnel-preflight` if your Cursor version l
 | A | Product type (book, digital book, live/online program…), title, delivery |
 | B | Price, bump, upsell, downsell, guarantee |
 | C | Avatar, promise, mechanism, proof |
-| D | **Wedge vs Big Mission** (or other) brand colors |
+| D | **Wedge vs Bignition** (or other) brand colors |
 | E | Click campaigns, LinkedIn/YouTube CTAs, quiz vs other lead magnet |
 | F | Full path map + asset list |
 

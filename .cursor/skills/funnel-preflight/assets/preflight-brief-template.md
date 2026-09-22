@@ -60,7 +60,7 @@ Full build sprint when A–F are LOCKED (creative drafts may remain in progress)
 
 ## D. Brand & Creative System
 
-- Brand kit: Wedge | Big Mission | Other: ________
+- Brand kit: Wedge | Bignition | Other: ________
 - Colors (hex): primary / secondary / accent / bg / text
 - Logo location:
 - Voice / on-camera:

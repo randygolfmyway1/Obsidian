@@ -54,7 +54,8 @@ email — not as a substitute for knowing what is being sold.
 - Challenge vagueness: "a program" is not locked — format, delivery, price, and promise must be concrete.
 - If they flip-flop on product type, reopen Gate A and wipe dependent decisions (price, upsells, VSL angle).
 - Capture exact dollar amounts, not ranges, before locking Gate B.
-- For brand: force **Wedge colors** vs **Big Mission colors** (or explicit third brand kit). No "we'll decide later."
+- For brand: force **Wedge colors** vs **Bignition colors** (or explicit third brand kit). No "we'll decide later."
+- **Name correction:** The brand is **Bignition** (not "Big Mission"). If speech-to-text or the user sounds like "Big Mission," always write and confirm **Bignition**.
 
 ## Gates (in order)
 
@@ -100,7 +101,7 @@ Do not proceed if two primary products are competing. Stack secondary products a
 
 ### Gate D — Brand & Creative System
 
-- Brand kit: **Wedge** vs **Big Mission** vs named other
+- Brand kit: **Wedge** vs **Bignition** vs named other
 - Primary / secondary / accent colors confirmed into the brief
 - Logo file location or "create later" (flag risk)
 - Voice: Randy as narrator? Host? Expert interviewer?
